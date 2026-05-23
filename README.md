@@ -1,39 +1,52 @@
 # GROK BUILD INFO
 
-**Public research, guides, and notes about Grok Build (Grok CLI) agentic usage, the Agent Client Protocol (ACP), and related topics.**
+**Public research, practical guides, and implementation notes for Grok Build (Grok CLI) in agentic, headless, and programmatic scenarios.**
 
-This repository serves as a public collection of practical research and documentation from real-world usage of Grok Build in agentic / headless / programmatic scenarios.
+This repository collects real-world research on using **Grok Build** with the **Agent Client Protocol (ACP)**, `grok agent stdio`, and related agentic integration patterns.
+
+Keywords: Grok Build, Grok CLI, Grok agent, Agent Client Protocol, ACP, grok agent stdio, xAI agent, headless Grok, programmatic Grok, agentic coding.
 
 ---
 
 ## Contents
 
-### Current Topics
+### Current Research
 
 - **[grok-build-acp-research](./grok-build-acp-research)**  
-  Deep dive into using `grok agent stdio` (the official Agent Client Protocol). Includes the full journey, key gotchas (especially the permission mode issue), decision guide (Spawn vs ACP), and a working reference implementation.
+  In-depth exploration of `grok agent stdio` (the official Agent Client Protocol). 
+  Covers the full implementation journey, critical gotchas (especially the `permission_mode` difference), Spawn vs ACP decision framework, and a working reference Python client.
 
-### Future Topics (Planned / Welcome)
+### Planned / Future Topics
 
-- More Grok Build integration patterns
-- Advanced prompting and agent orchestration techniques
-- Tooling, safety, and observability approaches
-- Comparisons with other agentic systems
+- Advanced Grok Build agent orchestration patterns
+- Safety, sandboxing, and observability techniques
+- Comparisons between spawn-based and protocol-based approaches
+- Tooling and prompting strategies for long-running agents
 
 ---
 
 ## Purpose
 
-This repo exists to share hard-won lessons from building real agentic systems on top of Grok Build, especially around the differences between the common "spawn" approach and the official ACP (`grok agent stdio`) path.
+Most people interact with Grok Build using the simple spawn approach (`grok -p ... --always-approve`).
 
-Everything here is based on actual implementation work rather than theory.
+This repo focuses on the **official programmatic path** — `grok agent stdio` — which speaks the Agent Client Protocol. It documents hard-won lessons from building real bidirectional clients.
 
----
-
-## Contributing / Suggestions
-
-If you have questions, corrections, or additional research you'd like to see here, feel free to open an issue.
+All material here comes from actual working code rather than theory.
 
 ---
 
-**Maintained as part of ongoing work on the [Chatter Svelte](https://github.com/Uncle-Gizmo/chatter-svelte) project.**
+## Searchability & Topics
+
+This repository is tagged with the following topics for better discoverability:
+
+`grok` `grok-build` `grok-cli` `agent-client-protocol` `acp` `grok-agent-stdio` `xai` `agentic` `headless` `research`
+
+---
+
+## Related Projects
+
+- [Chatter Svelte](https://github.com/Uncle-Gizmo/chatter-svelte) — The main project where this research originated.
+
+---
+
+**Feel free to open issues with questions, corrections, or suggestions for new research topics.**
