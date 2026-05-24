@@ -1,4 +1,3 @@
----
 # Astro + Vercel — Public Research / Info Publishing Hub
 
 **Purpose of this folder**
