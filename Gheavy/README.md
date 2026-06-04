@@ -1,32 +1,22 @@
-# Blueprint Generator Improvements — Grok Heavy Report
+# Grok Heavy — public research folder
 
-**File:** `BLUEPRINT_GEN_5_IMPROVEMENTS_REPORT_FOR_GROK_HEAVY.md`
+Documents in this folder are published for **Grok Heavy** and other LLMs to read without private repo access.
 
-Full analysis + complete source code of `blueprint_gen_5.py` (v4.0.0).
+## Governance (GROK_Build agent instructions) — 2026-06-04
 
-This is the enhanced public version intended for Grok Heavy (and other LLMs) to review and improve the blueprint generation system used in the Chatter_Svelte project.
+| Document | Description |
+|----------|-------------|
+| [GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md](GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md) | Full review pack: audit, fixes, open questions |
+| [GOVERNANCE-AUDIT-ANDROIDAPP-2026-06-04.md](GOVERNANCE-AUDIT-ANDROIDAPP-2026-06-04.md) | Shorter platform audit record |
 
-**Date:** 2026-05-27
-
-**Source project:** Chatter_Svelte (private)
-
-**Public research hub:** This repository (grok-build-info)
-
----
-
-## Contents of this folder
-
-- `BLUEPRINT_GEN_5_IMPROVEMENTS_REPORT_FOR_GROK_HEAVY.md` — The complete report (Executive Summary, root causes, prioritized recommendations, alternative architectures A–E, validation guidance, and the full `blueprint_gen_5.py` script as an appendix).
-
-## Purpose
-
-The blueprint generator (`blueprint_gen_5.py`) produces large volumes of LLM-optimized project documentation. This report documents its current strengths, measurable problems (245 files / ~705k tokens in the May 2026 run), and concrete improvements for higher signal density.
-
-## Related
-
-- Original private working copy: `chatter-svelte` (feature/coalface-agent branch) — for internal reference only.
-- Main project: [Chatter Svelte](https://github.com/Uncle-Gizmo/chatter-svelte) (private)
+**Raw (for fetch tools):** https://raw.githubusercontent.com/Uncle-Gizmo/grok-build-info/main/Gheavy/GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md
 
 ---
 
-**This content is intentionally published in the public research hub so it is accessible to Grok Heavy and other models without requiring repository access.**
+## Blueprint generator (2026-05-27)
+
+| Document | Description |
+|----------|-------------|
+| [BLUEPRINT_GEN_5_IMPROVEMENTS_REPORT_FOR_GROK_HEAVY.md](BLUEPRINT_GEN_5_IMPROVEMENTS_REPORT_FOR_GROK_HEAVY.md) | Blueprint gen v5 analysis + source |
+
+**Hub:** [grok-build-info](https://github.com/Uncle-Gizmo/grok-build-info) (public research only — not the private GROK_Build tree).
