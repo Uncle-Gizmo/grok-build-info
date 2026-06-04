@@ -7,9 +7,12 @@ Documents in this folder are published for **Grok Heavy** and other LLMs to read
 | Document | Description |
 |----------|-------------|
 | [GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md](GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md) | Full review pack: audit, fixes, open questions |
+| [GROK-HEAVY-FEEDBACK-INTEGRATED-2026-06-04.md](GROK-HEAVY-FEEDBACK-INTEGRATED-2026-06-04.md) | **Integration summary** — Grok Heavy feedback applied to platform |
 | [GOVERNANCE-AUDIT-ANDROIDAPP-2026-06-04.md](GOVERNANCE-AUDIT-ANDROIDAPP-2026-06-04.md) | Shorter platform audit record |
 
-**Raw (for fetch tools):** https://raw.githubusercontent.com/Uncle-Gizmo/grok-build-info/main/Gheavy/GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md
+**Raw — review pack:** https://raw.githubusercontent.com/Uncle-Gizmo/grok-build-info/main/Gheavy/GROK-HEAVY-REVIEW-GOVERNANCE-2026-06-04.md
+
+**Raw — integration summary:** https://raw.githubusercontent.com/Uncle-Gizmo/grok-build-info/main/Gheavy/GROK-HEAVY-FEEDBACK-INTEGRATED-2026-06-04.md
 
 ---
 
