@@ -2,6 +2,8 @@
 
 **Public research, practical guides, and implementation notes for Grok Build (Grok CLI) in agentic, headless, and programmatic scenarios.**
 
+Hub for all Grok product pages: **[grok-lab](https://github.com/Uncle-Gizmo/grok-lab)** · siblings: [Grok Bot](https://github.com/Uncle-Gizmo/grok-bot-info) · [Grok Heavy](https://github.com/Uncle-Gizmo/grok-heavy-info)
+
 This repository collects real-world research on using **Grok Build** with the **Agent Client Protocol (ACP)**, `grok agent stdio`, and related agentic integration patterns.
 
 Keywords: Grok Build, Grok CLI, Grok agent, Agent Client Protocol, ACP, grok agent stdio, xAI agent, headless Grok, programmatic Grok, agentic coding.
@@ -45,7 +47,11 @@ This repository is tagged with the following topics for better discoverability:
 
 ## Related Projects
 
-- [Chatter Svelte](https://github.com/Uncle-Gizmo/chatter-svelte) — The main project where this research originated.
+- [grok-lab](https://github.com/Uncle-Gizmo/grok-lab) — Public hub for Grok Build / Bot / Heavy
+- [grok-bot-info](https://github.com/Uncle-Gizmo/grok-bot-info) — Cursor Grok Bot (public)
+- [grok-heavy-info](https://github.com/Uncle-Gizmo/grok-heavy-info) — Grok Heavy (public)
+- [chatter-core](https://github.com/Uncle-Gizmo/chatter-core) — Canonical clean Chatter (private)
+- [chatter-svelte](https://github.com/Uncle-Gizmo/chatter-svelte) — Legacy Chatter + Coalface (archived)
 
 ---
 
